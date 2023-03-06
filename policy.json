@@ -6,7 +6,9 @@
             "Effect": "Allow",
             "Principal": "*",
             "Action": "s3:*",
-            "Resource": "*"
+            "Resource": [
+                "arn:aws:s3:::charu741",
+                "arn:aws:s3:::charu741/*"
         }
     ]
 }
