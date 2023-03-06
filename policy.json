@@ -9,6 +9,7 @@
             "Resource": [
                 "arn:aws:s3:::charu741",
                 "arn:aws:s3:::charu741/*"
+                ]
         }
     ]
 }
