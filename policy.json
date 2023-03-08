@@ -7,8 +7,8 @@
             "Principal": "*",
             "Action": "s3:*",
             "Resource": [
-                "arn:aws:s3:::charu741",
-                "arn:aws:s3:::charu741/*"
+                "arn:aws:s3:::charu741852",
+                "arn:aws:s3:::charu741852/*"
                 ]
         }
     ]
